@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **javascript, nodejs, react, vue, gsap, redux**
+- 💬 Ask me about **JavaScript, Nodejs, Reactjs, Vuejs, Gsap, Redux**
 
 - 📫 How to reach me **villacresa@gmail.com**
 
